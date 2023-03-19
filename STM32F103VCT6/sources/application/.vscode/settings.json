@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "task_list.h": "c",
+        "sys_dbg.h": "c",
+        "app.h": "c"
+    }
+}

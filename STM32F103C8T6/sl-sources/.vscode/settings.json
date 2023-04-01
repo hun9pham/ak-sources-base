@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32xx_headers.h": "c",
+        "app_dbg.h": "c",
+        "xprintf.h": "c"
+    }
+}
